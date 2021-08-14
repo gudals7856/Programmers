@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87090afc-dac3-473d-b5c9-147a6a4a3bcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outerwall_check/outerwall_check.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sell_down_minimum/sell_down_minimum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../news_clustering/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../news_clustering/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +33,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -65,6 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1628679968017</updated>
       <workItem from="1628679969081" duration="3858000" />
+      <workItem from="1628917641228" duration="16000" />
+      <workItem from="1628928574489" duration="10517000" />
     </task>
     <servers />
   </component>
@@ -81,5 +90,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
